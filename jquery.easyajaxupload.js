@@ -1,14 +1,7 @@
-/*
-// jQuery Easy Ajax File Uploader
-//
-// @author: jSimonight <jsimonight@gmail.com>
-//
-// - Ajaxifies an individual <input type="file">
-// - Files are sandboxed. Doesn't matter how many, or where they are, on the page.
-// - Allows for extra parameters to be included with the file
-// - onStart callback can cancel the upload by returning false
-// - To submit file invoke $('<input type="file">').easyajaxupload('upload')
-*/
+/**
+ * jQuery Easy Ajax File Uploader
+ * @author: jsimonait <jsimonait@gmail.com>
+ */
 
 (function ($) {
     $.fn.easyajaxupload = function (options) {
