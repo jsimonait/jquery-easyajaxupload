@@ -45,4 +45,8 @@ $('#file-input').easyajaxupload({
 $('#file-input').easyajaxupload('upload');
 ```
 
+##License
+Licensed under the MIT license.
+
+
  [afu]: http://github.com/jfeldstein/jQuery.AjaxFileUpload.js
